@@ -1,5 +1,5 @@
 # Protocol information from https://github.com/MattTW/BlinkMonitorProtocol
-# Be sure to edit the username + password below, to match you account
+# Be sure to edit the username + password below, to match your account creds
 # Usage Example: Blink_Video_Downloader.py
 
 # Comments added by @Kentix on GitHub
