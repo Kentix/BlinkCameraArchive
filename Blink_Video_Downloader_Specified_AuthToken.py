@@ -1,7 +1,7 @@
 # Protocol information from https://github.com/MattTW/BlinkMonitorProtocol
 # Usage Example: ? Blink_Video_Downloader.py arg1 arg2
 
-# Comments added by Austin Kent @Kentix on GitHub
+# Comments added by @Kentix on GitHub
 import requests
 import shutil
 import os
